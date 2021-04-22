@@ -1,6 +1,6 @@
 # Fire HD 10 Tablet VESA Mount
 
-This model provides a 100x100 VESA mount for an Amazon Fire HD 10 Tablet.
+This model provides a 100x100 VESA mount for an [Amazon Fire HD 10 Tablet](https://amzn.to/3xaqCTT).
 
 I have been working out some ideas to get a little better functionality out of my DRO scales through the awesome [TouchDRO](https://www.touchdro.com/) project.  This required an Android device that I could mount near my mill, which means I needed a sturdy mount that could protect the tablet from an environment where oil and conductive metal chips would be flying around pretty regularly.  The tablet itself is a little too big to fit on my printer so the model has been split into two pieces.  This also allows the mount to fully enclose the tablet on all sides once assembled.  The result is easy to print, attractive, and functional.
 
@@ -26,6 +26,7 @@ The Fire HD 10 Tablet VESA Mount can be used with any 100mm x 100mm pattern VESA
 
 To complete this assembly you will also need the following:
 
+* [Amazon Fire HD 10 Tablet](https://amzn.to/3xaqCTT)
 * [2x M3 socket-head screws between 16-30mm in length](https://amzn.to/3nay0de)
 * [2x M3 nuts](https://amzn.to/3nay0de)
 * [4x M4 nuts](https://amzn.to/3v8zLuc)
