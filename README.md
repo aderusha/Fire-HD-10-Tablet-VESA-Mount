@@ -30,7 +30,7 @@ To complete this assembly you will also need the following:
 * [2x M3 socket-head screws between 16-30mm in length](https://amzn.to/3nay0de)
 * [2x M3 nuts](https://amzn.to/3nay0de)
 * [4x M4 nuts](https://amzn.to/3v8zLuc)
-* [1x Right-angle USB C cable](https://amzn.to/3awdGOx)
+* [1x Right-angle USB C cable](https://amzn.to/3nB25om)
 
 ---
 
